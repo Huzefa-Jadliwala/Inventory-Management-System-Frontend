@@ -1,10 +1,4 @@
-import styled from "styled-components";
 import GlobalStyles from "./styles/GlobalStyle";
-import Button from "./styles/ui/Button";
-import Title from "./styles/ui/Title";
-import SearchBox from "./styles/ui/SearchBox";
-import Row from "./styles/ui/Row";
-import Column from "./styles/ui/Column";
 import { BrowserRouter, Navigate, Route, Routes } from "react-router-dom";
 import PageNotFound from "./pages/PageNotFound";
 import Dashboard from "./pages/Dashboard";
